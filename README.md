@@ -4,6 +4,9 @@
 - style.md 추가
 - style.md 수정
 
+## 내비게이션 추가
+- navigation.md 파일 추가
+
 ## 정보
 - 혈액형 : AB형
 - 사는 곳: 경기도
